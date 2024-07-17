@@ -1,7 +1,7 @@
 //Activity 01
 //Function Declarations
-
 //Task 1 - Even or Odd
+
 function checkNum(number){
     if((number%2)==0){
         console.log(`${number} is even`);
@@ -21,10 +21,12 @@ console.log(sqNum(6))
 //Activity 02
 //Function Expression
 //Task 3 - Find the max of 2 numbers and log the result.
+
 function max(number1,numer2){
     return Math.max(number1,numer2)
 }
 console.log( max(44,88))
+
 
 //Task 4 - Concatinate two Strings and return it.
 
